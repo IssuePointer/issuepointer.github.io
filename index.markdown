@@ -4,6 +4,8 @@
 
 layout: default
 ---
+# IssuePointer
+
 ## Project Description
 
 The scope of the project is to aid developers in resolving bug reports by finding similar issues and pointing the developers towards possible solutions. This project scans the source code and extract data from bug reports to find similar issues in the past if they exist, find code segments that are suspected to introduce the problem in a given bug report, and possibly suggest solutions based on past issues and their solutions. The project will be implemented as an extension for the Visual Studio Code IDE.
