@@ -16,3 +16,7 @@ The scope of the project is to aid developers in resolving bug reports by findin
 * Efe Yakar
 * Serdar Özata
 * Şeymanur Kılıç
+
+## Project Reports
+* [Specification Documents](./docs/reports/specification.pdf)
+* [Analysis and Requirements Report](./docs/reports/requirements.pdf)
