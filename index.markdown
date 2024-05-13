@@ -20,3 +20,6 @@ The scope of the project is to aid developers in resolving bug reports by findin
 ## Project Reports
 * [Specification Documents](./docs/reports/specification.pdf)
 * [Analysis and Requirements Report](./docs/reports/requirements.pdf)
+
+## Documentation
+* [IssuePointer User Manual](https://wiki.issuepointer.com/en/manual)
