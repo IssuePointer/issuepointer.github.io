@@ -6,7 +6,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  # overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "Watch the demo"
       url: "https://www.youtube.com/watch?v=yxJYfusxtaI"
@@ -66,10 +66,10 @@ feature_row4:
 {% include feature_row %}
 
 ## Why IssuePointer?
-- **Combines similar issue detection and bug localization into a coherent experience.**
+- **Combines similar issue detection and bug localization into a coherent experience.** IssuePointer helps developers tackling bugs and regressions in complex software projects by providing them points of comparison (similar issues) and a jumping point for debugging (file-level bug localization).  
 - **Designed for on-premises deployment first.** We provide companies using IssuePointer with a `company.issuepointer.com` subdomain and container images of our software. Our customers are free to deploy IssuePointer on company premises or on existing cloud platforms. IssuePointer works wherever docker is available.
-- **Private and secure.**
-- **Seamless integration with existing tools.**
+- **Private and secure.** IssuePointer *doesn't rely on external LLMs*, so your data never leaves your company servers. All communication between the model and GitHub is encrypted by keys provided by the customer, ensuring that neither third parties nor the IssuePointer team can read their data without consent.
+- **Seamless integration with existing tools.** IssuePointer integrates with GitHub and Visual Studio Code so that the developers don't have to learn how to navigate yet another user interface. The UI elements of our VSCode extension can be customized to the individual developer's liking. 
 
 <!-- {% include feature_row id="feature_row2" type="left" %} -->
 <!-- 
