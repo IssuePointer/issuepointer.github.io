@@ -22,10 +22,14 @@ title: IssuePointer
 email: berkan@bsahin.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   skillfully point to the issue
+subtitle: skillfully point to the issue
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://issuepointer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: issuepointer
+repository: "issuepointer/issuepointer.github.io"
+minimal-mistakes-skin: "mint"
+logo: "issuepointer-black.svg"
 
 # Build settings
 # theme: jekyll-theme-cayman

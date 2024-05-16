@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="issuepointer-black.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2">IssuePointer logo</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="25.40625"
+     inkscape:cx="16.03936"
+     inkscape:cy="16.688807"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-size:30.9254px;font-family:'BigBlueTerm437 Nerd Font Mono';-inkscape-font-specification:'BigBlueTerm437 Nerd Font Mono, Normal';fill:#000000;stroke-width:2.57712;fill-opacity:1"
+       d="m 5.0701109,30.110699 v -2.577117 h 2.577116 V 17.225115 H 5.0701109 V 14.647999 H 12.80146 v 12.885583 h 2.577117 v 2.577117 z M 7.6472269,12.070882 V 6.9166489 H 12.80146 v 5.1542331 z"
+       id="text1"
+       aria-label="i" />
+    <path
+       d="m 22.210911,7.1918939 v -1.7969 h 3.5938 V 3.598094 h -1.7969 v -1.7969 h 3.5938 v 1.7969 h 3.5938 v -1.7969 h 3.593799 v 1.7969 h -1.796899 v 1.7968999 h 3.593799 v 1.7969 H 32.992311 V 8.9887938 H 34.78921 V 10.785694 H 31.195411 V 8.9887938 h -3.5938 v 1.7969002 h -3.5938 V 8.9887938 h 1.7969 V 7.1918939 Z"
+       id="text2"
+       style="font-size:21.5628px;font-family:'BigBlueTerm437 Nerd Font Mono';-inkscape-font-specification:'BigBlueTerm437 Nerd Font Mono, Normal';fill:#000000;stroke-width:1.79691;fill-opacity:1"
+       transform="scale(0.76700609,1.3037706)"
+       aria-label="*" />
+  </g>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>IssuePointer logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
