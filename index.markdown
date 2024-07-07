@@ -86,6 +86,7 @@ The scope of the project is to aid developers in resolving bug reports by findin
 ## Documentation
 * [IssuePointer User Manual](https://wiki.issuepointer.com/en/manual)
 
+<!--
 ## Team Members
 * Alphan Eker
 * Berkan Şahin
@@ -96,4 +97,4 @@ The scope of the project is to aid developers in resolving bug reports by findin
 ## Project Reports
 * [Specification Documents](./docs.html)
 * [Analysis and Requirements Report](./docs.html)
-
+-->
